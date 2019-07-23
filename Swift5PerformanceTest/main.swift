@@ -6,7 +6,4 @@
 //  Copyright © 2019 Daniel Alm. All rights reserved.
 //
 
-import Foundation
-
-print("Hello, World!")
-
+import AppKit
